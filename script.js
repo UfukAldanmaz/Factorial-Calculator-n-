@@ -1,5 +1,4 @@
-//var btn = document.querySelector('button');
-//btn.addEventListener('click',
+
 document.getElementById("form").onsubmit = function () {
     var num = document.getElementById("number").value;
     var result = document.getElementById("result");
